@@ -1,13 +1,11 @@
-# lns_aquarium
-
-A new Flutter project.
-
-## Getting Started
+# LNS Aquarium App
 
 This a Flutter workshop project for LNS Sheesh 2022.
 
 API used in this project: 
 - https://acnhapi.com/
+
+## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
 
