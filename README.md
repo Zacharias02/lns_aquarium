@@ -4,7 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This a Flutter workshop project for LNS Sheesh 2022.
+
+API used in this project: 
+- https://acnhapi.com/
 
 A few resources to get you started if this is your first Flutter project:
 
